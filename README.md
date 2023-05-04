@@ -11,4 +11,4 @@
 # LINK DEMO 
 
 # LINK APLIKASI 
-
+ - Gdrive = https://drive.google.com/file/d/1aCHW1AQgx_W_-G4kBDZujczrySUCkms8/view?usp=share_link
