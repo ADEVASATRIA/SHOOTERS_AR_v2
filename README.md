@@ -1,6 +1,14 @@
-# Code for Tudorial 3 (Make an Augmented Reality Game in Unity)
+# SHOOTERS AR APLICATION
 
-This code is updated from the ARFoundation code [samples](https://github.com/Unity-Technologies/arfoundation-samples/tree/7f33eca8720ce7ee8e52fc6494810e2a15c93929)
-[Video Link](https://youtu.be/buZAEnqphNI)
+# DESKRIPSI 
+  Pada repository ini merupakan file dan aplikasi yang dapat di download . untuk dimainkan atau dijalankan. Aplikasi ini Bernama SHOOTERS. Yang merupakan sebuah aplikasi ar game yang di dalam apliaksi tersebut user dapat melakukan Shooting ke Ring basket yang 
+  Di siapkan.
+  
+# BERIKUT JENIS APLIKASI / SUMBER PEMBUATAN 
+  -  AR FOUNDATION
+  -  UNITY
+  
+# LINK DEMO 
 
-Enjoy!
+# LINK APLIKASI 
+
